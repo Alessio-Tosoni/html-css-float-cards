@@ -1,0 +1,46 @@
+*{margin: 0;
+box-sizing: border-box;}
+
+h1{text-align: center;
+color: #E53170;
+font-weight: bolder;
+font-size: 45px;
+margin-top: 2%;
+}
+
+.container{width: 70%;
+margin: auto;
+margin-top: 40px;}
+
+.clearfix::after{clear: both;}
+
+.introduzione{text-align: center;
+font-weight: 500;
+font-size: 20px;
+margin-bottom: 3%;}
+
+.col{float: left;
+width: 33%;
+margin: 20px auto;}
+
+img{height: 150px;
+float: left;
+margin-right: 25px;}
+
+.card {background-color: #0F0E17;
+float: left;
+color: white;
+width: 500px;
+margin-right: 15px;}
+
+.info {text-align: left;
+margin: 15px;
+vertical-align: middle}
+
+.nome{font-size: 30px;
+font-weight: 800;}
+
+.ruolo{font-size: 20px;}
+
+.email{color: #55B1E6;
+font-size: 20px;}
